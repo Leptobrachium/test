@@ -4,4 +4,5 @@ plot(x,y)
 summary(x)
 draw(x,y)
 mean(x)
-draw(x,y)
+
+summary(x)
